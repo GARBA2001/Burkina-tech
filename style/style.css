@@ -1,0 +1,182 @@
+
+@import url('https://fonts.googleapis.com/css2? family= Montserrat & display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Playfair+Display+SC:ital@1&family=Playfair+Display:wght@600&display=swap');
+
+.RT{
+    color: white;
+    text-align: center;
+    background-image: url("../image/o.jpg");
+    height: 645px;
+    background-size: cover;
+    width: 1351px;
+}
+.bg{
+    background-color: #0E1434 !important;
+    height: 75px;
+}
+
+.navbar-nav a{
+font-size: 14px;
+text-transform: uppercase;
+font-weight: 500;
+color: white !important;
+
+}
+.navbar-light  .navbar-brand{
+    color: #0E1434 ;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+    
+}
+.navbar-brand
+.navbar-light  .navbar-brand:focus,
+.navbar-light  .navbar-brand:hover{
+    color: white;
+}
+.navbar-light  .navbar-nav .nav-link{
+    color: white;
+}
+.navbar-light  .navbar-nav .nav-link:focus,
+.navbar-light  .navbar-nav .nav-link:hover{
+    color: white;
+}
+.w-100{
+    height: 100vh;
+}
+.navbar-toggler{
+    padding: 1px 5px;
+    font-size: 18px;
+    line-height: 0,3;
+    background: #fff;
+}
+
+.gg{
+    color:white;
+    padding-left: 70px;
+    font-size: 13px;
+    line-height: 1px;
+}
+.bn{
+    padding-top: 10px;
+}
+.FG{
+    color: #FAA304 !important;
+}
+.ty{
+    margin-top: 120px;
+}
+.hj1{
+    color: #FFA501;
+}
+.hj2{
+background-color: #FFA501 !important;
+border: none;
+}
+.kl{
+    text-align: justify;
+    width: 425px; 
+    
+}
+.about-img{
+    margin-top: 50px;
+}
+.qui1{
+    padding-top: -50px;
+    color: #FFA501;
+}
+.jml{
+    height: 65px;
+    width: 175px;
+    padding-top: 17.5px !important;
+    background-color: #F8F8F8 !important;
+    border: groove !important;
+    color: black !important;
+    border-color:#FFA501 !important ;
+    border-radius: 10px;
+}
+
+.container .row .jml :hover{
+cursor: pointer;
+}
+
+.lmk{
+    text-align: justify;
+    width: 100px;
+}
+.moi{
+    padding-left: 50px;
+}
+.toi{
+    border: groove;
+    background-color:#F8F8F8;
+    border-color: #333333;
+}
+.yiu{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+/* .tr{
+    visibility: hidden;
+} */
+.scroll-bg{
+    background-color: teal;
+    width: 1100px;
+    margin: 10% auto;
+}
+.scroll-div{
+    width: 1100px;
+    background-color:white;
+    height: 375px;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+.scroll-object{
+padding: 15px;
+}
+.clu{
+    margin-top: -100px;
+}
+
+
+/* JUSTIN */
+
+
+
+.D h1{
+    font-size:20px;
+    text-align: center;
+}
+.D p{
+    color: rgb(249, 136, 6); 
+    text-align: center;
+}
+.s2{
+    height: 600px;
+    background-image:url(../image/a5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.s0{
+    height: 500px;
+}
+.s1{
+    height: 600px;
+}
+.TC{
+    color: rgb(249, 136, 6);
+}
+
+.logo{
+    width: 300px;
+    height: 100px;
+}
+.footer{
+    height: 300px;
+    background-color: black;
+}
+.container-fluid{
+    padding-left: 80px !important;
+    padding-right: 80px !important;
+}
